@@ -1,0 +1,98 @@
+[
+    {
+        "text" : "Child Care Licensing",
+        "subText" : "Recruit, onboard and maintain license status",
+        "link" : "/licensing",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614d48679da90e33cf69c4c6_Licensing.svg",
+        "content" : "BridgeCare's licensing module allows State administrators to recruit and onboard new providers and complete regular inspections to maintain licensing status. ",
+        "bulletPoints" : [
+            "Since BridgeCare is an integrated system, information can be shared automatically with a provider's profile. Any infractions or inspections are shown to families in real-time.",
+            "Providers have visibility to their licensing status and the necessary steps they need to take to become credentialed or renew their license."
+        ]
+    },
+    {
+        "text" : "Search & Enrollment",
+        "subText" : "Find and enroll with providers",
+        "link" : "/child-care-search",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614db74df1b88a6f2ecc2f30_Group%20348.svg",
+        "content" : "The Search & Enrollment module enables families to find childcare providers in their community. All of the information shown about providers is gathered from providers in the Provider Portal. From there, families can enroll with their favorite provider through coordinated enrollment to reduce the burden on parents; they only need to submit one application to enroll their child.",
+        "bulletPoints" : [
+            "White-label software that can be customized with brand color, branding, program content, and partnership/affiliate logos.",
+            "Parents can engage with providers directly in the portal by sending messages and booking live tours.",
+            "Collect real-time availability data while increasing enrollment for providers.",
+            "Match families with child care providers using the data collected from providers.",
+            "Make data-driven decisions to support families and providers in your community."
+        ]
+    },
+    {
+        "text" : "Resource & Referral",
+        "subText" : "Refer child care and resources",
+        "link" : "/resource-referral",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614cadb961535409945b2d73_Resource%20%26%20Referral.svg",
+        "content" : "BridgeCare enables CCR&Rs or referral agencies to intake family information and provide referrals for child care or other wrap around supports. With custom fields, administrators can create their own intake form and input fields that providers have the option to fill out.",
+        "bulletPoints" : [
+            "Track referrals and your organization's impact.",
+            "A map and list view of resources allows administrators to find the best local resources for a family.",
+            "Viewer permissions keeps family information private and only seen by relevant administrators."
+        ]
+    },
+    {
+        "text" : "QRIS & Coaching",
+        "subText" : "Improve, manage and assess",
+        "link" : "/qris-coaching",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614ce6f70a87db27ee082b25_QRIS%20(2).svg",
+        "content" : "BridgeCare’s Coaching Module enables administrators to log Technical Assistance hours including notes, goals, next steps, etc. and complete assessments.",
+        "bulletPoints" : [
+            "Providers can submit documents for desk review prior to on-site evaluation to make face-to-face time with providers more efficient and effective.",
+            "Administrators can configure the criteria to determine the corresponding QRIS rating.",
+            "Viewer permissions keep coaching information private to coaching staff that need to see the information. "
+        ]
+    },
+    {
+        "text" : "Subsidy Management",
+        "subText" : "Apply in one streamlined application",
+        "link" : "/subsidy-management",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614ce6ef12ba46fe6f722ad7_Subsidy%20management%20(2).svg",
+        "content" : "The Subsidy Management module allows parents/guardians to search for and enroll in early education programs such as subsidized PreK. The Provider Portal allows early care providers to register for the program, keep information current, and manage their enrollment process, and the Admin Portal allows staff to review and approve enrollment applications and review invoice information. If a parent submits an application, the administrator can immediately review that application.",
+        "bulletPoints" : [
+            "Streamlined eligibility and coordinated enrollment process helps match families access affordable child care faster",
+            "Modern time and attendance tracking increases accuracy and reduces risk of fraud",
+            "Integrated invoicing and payments system gets providers paid faster"
+        ]
+    },
+    {
+        "text" : "Grant Management",
+        "subText" : "Apply for and distribute funds to providers",
+        "link" : "/grant-management",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614ce977372135d972e2c298_Grant%20management.svg",
+        "content" : "BridgeCare’s Grant Management module was designed to help agencies create, collaborate, review applications, manage, distribute funds, and report on grant applications.",
+        "bulletPoints" : [
+            "Providers can view and apply for grants from within the provider portal.",
+            "Administrators can create, view and manage grants from within the administrator portal. ",
+            "Administrators can administer funds to awarded providers and track payment information. "
+        ]
+    },
+    {
+        "text" : "Professional Development (PDIS)",
+        "subText" : "Learning for child care workforce",
+        "link" : "/professional-development-pdis",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614ca2a743c441ab65ad4b43_Learning%20mockup.svg",
+        "content" : "The Professional Development (PDIS) is add-on module, designed for childcare providers, administrators, teachers, and quality coaches. Users can review and complete role specific learning modules.",
+        "bulletPoints" : [
+            "Integrate with state QRIS ratings to award users upon completion of related tasks.",
+            "Receive certificates for completed courses.",
+            "Both offline and online courses can be tracked."
+        ]
+    },
+    {
+        "text" : "Reporting & Analytics",
+        "subText" : "Data visualizations and extracts",
+        "link" : "/reporting-analytics",
+        "image" : "https://uploads-ssl.webflow.com/5f6ce074a62cf885680ba383/614cae67c90f76c70d984d83_Reporting%20%26%20Analytics.svg",
+        "content" : "BridgeCare enables State and local government agencies to make better and faster data-driven decisions through data collection quality and system integrations. We offer two options for consuming data: ",
+        "bulletPoints" : [
+            "Analytics: Analytics are real-time data visualizations.",
+            "Reporting: Reporting allows administrators to run and export ad-hoc reports. We make it easy to export any data field that families, providers or administrators inputs into any portal."
+        ]
+    }
+]
