@@ -1,22 +1,24 @@
 <template>
     <div class="page-wrap">
         <div class="page">
-            <v-row style="padding: 100px 0;" align="center" justify="center">
-                <v-col cols="5">
-                    <h2>{{content.text}}</h2>
-                    <p>{{content.content}}</p>
-                    <ul>
-                        <li v-for="(bullet, b) in content.bulletPoints" :key="b">{{bullet}}</li>
-                    </ul>
-                    <v-btn @click="$router.push('/request-a-demo')" class="mt-10" x-large flat rounded color="primary">
-                        <span style="text-transform: capitalize;">Learn More</span>
-                        <v-icon>mdi-arrow-right</v-icon>
-                    </v-btn>
-                </v-col>
-                <v-col cols="5">
-                    <v-img :src="content.image" />
-                </v-col>
-            </v-row>
+            <v-container>
+                <v-row style="padding: 100px 0;" align="center" justify="center">
+                    <v-col cols="6">
+                        <h2>{{content.text}}</h2>
+                        <p>{{content.content}}</p>
+                        <ul>
+                            <li v-for="(bullet, b) in content.bulletPoints" :key="b">{{bullet}}</li>
+                        </ul>
+                        <v-btn @click="$router.push('/request-a-demo')" class="mt-10" x-large flat rounded color="primary">
+                            <span style="text-transform: capitalize;" class="mr-12">Learn More</span>
+                            <v-icon>mdi-arrow-right</v-icon>
+                        </v-btn>
+                    </v-col>
+                    <v-col cols="6">
+                        <v-img :src="content.image" />
+                    </v-col>
+                </v-row>
+            </v-container>
         </div>
         <Browse />
     </div>
